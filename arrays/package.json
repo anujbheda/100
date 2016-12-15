@@ -1,0 +1,21 @@
+{
+  "name": "arrays",
+  "version": "1.0.0",
+  "description": "array basics",
+  "main": "exercise.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "arrays"
+  ],
+  "author": "abelsan <abel@mit.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
